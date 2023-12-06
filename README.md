@@ -1,39 +1,70 @@
-# Simple Todo List Web App with Tailwind CSS and JavaScript
+# Getting Started with Create React App
 
-This repository contains a simple and elegant Todo List web app built using Tailwind CSS and JavaScript. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+## Available Scripts
 
-- Add new todos with a user-friendly interface.
-- Mark todos as completed.
-- Delete completed todos or those no longer needed.
-- Save todos to the local storage for persistent data.
-- Schedule your to-dos
-- Change to-dos status
-- Filter to-dos by status
+In the project directory, you can run:
 
-## Live Demo
+### `npm start`
 
-You can check out the live demo of the Todo List web app [here](https://abdellatif-laghjaj.github.io/todo-list/)).
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Screenshots
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-![image](https://github.com/abdellatif-laghjaj/todo-list/assets/79521157/2bc510e2-5f2f-456b-acc2-31b8c8232d93)
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Technologies Used
+### `npm run build`
 
-- HTML5: The structure of the web app.
-- CSS3 with Tailwind CSS: For styling the app beautifully.
-- JavaScript: To handle the interactive functionality of the app.
-- Local Storage: To save todos for persistent data across browser sessions.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Getting Started
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-To run the Todo List web app on your local machine, follow these steps:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-1. Clone the repository:
+### `npm run eject`
 
-```bash
-git clone https://github.com/abdellatif-laghjaj/todo-list.git
-```
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
